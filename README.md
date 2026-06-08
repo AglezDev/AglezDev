@@ -23,4 +23,4 @@ Es una web app para una agencia de compras por internet, esta web brinda herrami
 
 ## Contáctame
 
-Puedes encontrarme en WhatsApp al +186 3254 1732 o enviarme un correo a negociospropios01@gmail.com.
+Puedes encontrarme en WhatsApp al +186 3254 1732 o enviarme un correo a arqgonzcor@gmail.com.
