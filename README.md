@@ -44,6 +44,17 @@ Desarrollador enfocado en la construcción de soluciones multiplataforma de alto
 
 ---
 
+### 🛵 **TeneDoor — Delivery de comida en Las Tunas**
+
+*Plataforma de delivery con app de clientes y panel de administración en producción.*
+
+- **Stack:** React, Capacitor (Android), Supabase (PostgreSQL, Auth, FCM Push).
+- **El Reto:** Operar con conectividad limitada: catálogo offline-first, confirmación de recepción y sincronización de pedidos en tiempo real.
+- **Ingeniería:** Anti-fraude con comisiones bloqueadas al confirmar, sistema de disputas, push FCM de pedidos y actualizador OTA de APKs.
+- **AI Acceleration:** Generación de migraciones SQL, refactorización de componentes y automatización de builds de release.
+
+---
+
 ## 📬 Hablemos / Contacto
 
 Estoy abierto a oportunidades de trabajo remoto para **Startups, Empresas de Tecnología o Proyectos Freelance**.
